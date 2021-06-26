@@ -1,7 +1,7 @@
 import "./App.css";
 import Home from "./components/pages/Home";
 import Search from "./components/pages/Search";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
     <div className="App">
