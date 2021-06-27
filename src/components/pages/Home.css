@@ -35,6 +35,6 @@
   flex-direction: column;
 }
 .home__body > img {
-  object-fit: contain;
   height: 100px;
+  object-fit: contain;
 }
